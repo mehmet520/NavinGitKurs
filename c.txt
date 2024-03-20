@@ -1,2 +1,0 @@
-username = mem02
-password = yil03
