@@ -2,4 +2,4 @@ Hello World !!!
 take input
 add values
 
-submit data
+submit data to database
